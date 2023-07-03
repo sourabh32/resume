@@ -15,7 +15,7 @@ export const projects = [
       imageSrc: exercise,
       title: 'Exercise - Webapp',
       skills: ['React', 'Chakra UI', 'Framer'],
-      live:"https://https://exerciselib.vercel.app/",
+      live:"https://exerciselib.vercel.app/",
       github:"https://github.com/sourabh32/gym-webapp"
     },
     {
