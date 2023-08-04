@@ -2,8 +2,16 @@
 import snake from "./snake_lader.png"
 import ludo from "./ludo.png"
 import exercise from "./exercise.png"
+import sneak from "./sneak.png"
 
 export const projects = [
+  {
+      imageSrc: sneak,
+      title: 'SNEAK - ecomm',
+      skills: ['React', 'Firebase', 'Redux'],
+      live:"https://sneaker-orpin.vercel.app/",
+      github:"https://github.com/sourabh32/sneaker_ecom"
+    },
     {
       imageSrc: snake,
       title: 'Snake & Ladder',
